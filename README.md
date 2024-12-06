@@ -1,1 +1,3 @@
-# TicTacToe_Game
+# TicTacToe Game
+
+This is a simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to compete by taking turns marking their respective symbols (X and O) on a 3x3 grid. The objective is to align three symbols in a row, column, or diagonal. The project features a clean user interface styled with CSS and dynamic gameplay logic implemented in JavaScript, ensuring a smooth and engaging experience. This project was created as a fun way to enhance my frontend development skills and demonstrate my ability to build functional and interactive web applications.
